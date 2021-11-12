@@ -1,5 +1,5 @@
  
-The objective of the code is to compare with the spectra calculation done by Gabriele using Gaussian correlation function. 
+The objective of the code is to compare with the spectra calculation 
 
 The input used here were provided by Gabriele. The input data comes from RANS + LES and no information on the scaling is avialable. 
 Most possible all the length is scaled by chord and velocity by inlet velocity.  But cannot be confirmed. So present test case depends if or if not the scaling of spectra in gabriele's code is correct.  
